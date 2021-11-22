@@ -13,8 +13,8 @@
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mau-me&show_icons=true&theme=github_dark&locale=en" alt="mau-me" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mau-me&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=mau-me&show_icons=true&theme=github_dark&locale=en" alt="mau-me" />
+  <img "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mau-me&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
 </div>
 
 <h3 align="left">Linguagens, BDs e Ferramentas/Frameworks:</h3>
