@@ -1,5 +1,5 @@
 <h1 align="center">E ai, Tudo Blz? Me Chamo Mauricio Menezes</h1>
-<img height= "300em" align=RIGHT src="https://github.com/Mau-Me/Mau-Me/blob/main/OlaMundo.gif" alt="mau-me hello world" />
+<img height= "300em" align=RIGHT src="https://github.com/Mau-Me/Mau-Me/blob/main/newOlaMundo.gif" alt="mau-me hello world" />
 <h3 align="left">Um desenvolvedor Back-end, apaixonado pela linguagem C 😬🖤<br>No momento estou aprendendo bastante sobre desenvolvimento mobile.</h3>
 
 #### 👨‍💻 Pode encontrar todos os meus projetos disponíveis em [maumenezes.dev.br](maumenezes.dev.br)
