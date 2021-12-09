@@ -7,7 +7,7 @@
 
 <div>
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=mau-me&show_icons=true&theme=github_dark&locale=en" alt="mau-me" />
-  <img "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mau-me&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mau-me&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
 </div>
 
 <h3 align="left">Linguagens, BDs e Ferramentas/Frameworks:</h3>
@@ -15,7 +15,6 @@
 
 <h3 align="left">Minhas Redes Sociais:</h3>
 <p align="left">
-<a href="https://instagram.com/olaf_mau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="olaf_mau" height="30" width="40" /></a>
-</p>
+<div><a href="http://instagram.com/olaf_mau/"><img style="margin:5px" height= "30em" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"></a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mau-me&label=Profile%20views&color=0e75b6&style=flat" alt="mau-me" /> </p>
