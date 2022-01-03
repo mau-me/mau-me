@@ -2,7 +2,7 @@
 <img height= "300em" align=RIGHT src="https://github.com/Mau-Me/Mau-Me/blob/main/newOlaMundo.gif" alt="mau-me hello world" />
 <h3 align="left">Um desenvolvedor Back-end, apaixonado pela linguagem C 😬🖤<br>No momento estou aprendendo bastante sobre desenvolvimento mobile.</h3>
 
-#### 👨‍💻 Pode encontrar todos os meus projetos disponíveis em [mau-me.github.io/](https://mau-me.github.io/)
+#### 👨‍💻 Pode encontrar todos os meus projetos disponíveis em [mau-me.github.io](https://mau-me.github.io/)
 #### Se quiser conversar sobre algum projeto 📫 **mauriciosm95@gmail.com**
 
 <div>
