@@ -1,8 +1,8 @@
-<h1 align="center">E ai, Tudo Blz? Me Chamo Mauricio Menezes</h1>
+<h1 align="center">E ai, Tudo Bem? Me Chamo Mauricio Menezes (maume)</h1>
 <img height= "300em" align=RIGHT src="https://github.com/Mau-Me/Mau-Me/blob/main/newOlaMundo.gif" alt="mau-me hello world" />
-<h3 align="left">Um desenvolvedor Back-end, apaixonado pela linguagem C 😬🖤<br>No momento estou aprendendo bastante sobre desenvolvimento mobile.</h3>
+<h3 align="left">Um desenvolvedor Back-end, apaixonado pela linguagem C 😬🖤<br>Também estou aprendendo bastante sobre análise de dados, cloud, inteligência artificial e mobile.</h3>
 
-#### 👨‍💻 Pode encontrar todos os meus projetos disponíveis em [mau-me.github.io](https://mau-me.github.io/)
+#### Pode encontrar todos os meus projetos disponíveis em [maume.me](https://maume.me/) 
 #### Se quiser conversar sobre algum projeto 📫 **mauriciosm95@gmail.com**
 
 <div>
